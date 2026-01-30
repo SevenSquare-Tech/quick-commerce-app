@@ -9,6 +9,7 @@ Quick Commerce App is a Flutter-based mobile application designed to support fas
 The project is structured with clean asset management, modern Flutter packages, and secure storage practices.
 
 This project is currently private and not published to pub.dev.
+
 [Here’s the Complete Guide to Build a Quick Commerce App Clone like BlinkIt in Flutter.](https://www.sevensquaretech.com/build-blinkit-clone-app-flutter-with-github-code/)
 
 ## SDK & Environment
